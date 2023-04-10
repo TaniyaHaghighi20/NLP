@@ -1,0 +1,2 @@
+Medical multiple choice
+A dataset of 4183 medical multiple choice Questions and their answers was used with huggingface Bert model to build a medical multiple choice question answering. 
