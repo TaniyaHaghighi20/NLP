@@ -1,0 +1,4 @@
+Medical Quesion Summarization
+A dataset of 1000 clinical Health Questions and their summaries was used with huggingface t5_small model to build a medical question summarizer. 
+The summarizer uses abstractive summarization in order to generate the real Question that a patient might want to ask without unneccessary details that a he/she 
+would add.
